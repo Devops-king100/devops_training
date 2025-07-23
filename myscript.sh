@@ -13,7 +13,7 @@
             background-color: #f0f2f5; /* Light gray background */
             display: flex;
             justify-content: center;
-            align-items: center;
+            align-items: left;
             min-height: 100vh; /* Full viewport height */
             margin: 0;
         }
