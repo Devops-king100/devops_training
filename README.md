@@ -1,2 +1,3 @@
 # devops_training
-Tasks 
+Tasks for my devops bootcamp
+
